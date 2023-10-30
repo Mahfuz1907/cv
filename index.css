@@ -1,0 +1,68 @@
+.index{
+    text-align: center;
+    
+}.index a{
+    margin: 20px;
+    color: white;
+    background-color: black;
+}.index  :hover{
+    color: green;
+    font-size: x-large;
+}#image{
+    text-align: center;
+    width: 150;
+    height: 100;
+}#header h1{
+    text-align: center;
+}#header{
+    background-color: azure;
+}#Summary{
+    background-color: bisque;
+}#Summary h2 {
+    text-align: center;
+}#Summary p{
+    text-align: center;
+}#Education{
+    background-color: black;
+    color: yellowgreen;
+}#Education h2{
+    text-align: center;
+}.list{
+    list-style-type: square;
+}#Skills{
+    background-color: beige;
+}#Skills h2{
+    text-align: center;
+}.table-container table{
+    text-align: center;
+    border-color: blue;
+} .table-container table thead{
+    background-color: black;
+    color: whitesmoke;
+}#User{
+    background-color: aqua;
+}#User h2{
+    text-align: center;
+}#User form{
+    text-align: center;
+    
+}#User form  :hover{
+    background-color: green;
+}#Contact{
+    background-color: brown;
+}#Contact h2{
+    text-align: center;
+}#Contact p{
+    text-align: center;
+}#Contact p a{
+    background-color: white;
+    color: black;
+    font-size: larger;
+}#Contact p :hover{
+    color: green;
+    font-size: x-large;
+}#footer{
+    background-color: blanchedalmond;
+}#footer p{
+    text-align: center;
+}
